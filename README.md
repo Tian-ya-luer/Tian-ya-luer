@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tian-ya-luer
-- 👀 I’m interested in Windows Application.
-- 🌱 I’m currently learning MFC
+- 👀 I’m interested in Web Application.
+- 🌱 I’m currently learning Vue
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://space.bilibili.com/279656749
 
